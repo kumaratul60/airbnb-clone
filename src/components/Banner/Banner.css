@@ -16,9 +16,9 @@
 }
 .banner__searchButton {
   background-color: white !important;
-  font-weight: 900 !important;
+  font-weight: 1000 !important;
   text-transform: inherit !important;
-  color: #ff7779 !important;
+  color: #ff5c61 !important;
 }
 .banner__search {
   display: flex;

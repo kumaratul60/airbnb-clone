@@ -13,7 +13,8 @@ function Header() {
       <Link to="/">
         <img
           className="header__icon"
-          src="https:i.pinimg.com/originals/3c/bf/be/3cbfbe148597341fa56f2f87ade90956.png"
+          // src="https:i.pinimg.com/originals/3c/bf/be/3cbfbe148597341fa56f2f87ade90956.png"
+          src = "https://images.opencollective.com/airbnb/d327d66/logo.png"
           alt="airbnb icon"
         />
       </Link>
